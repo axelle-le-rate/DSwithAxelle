@@ -24,7 +24,7 @@ Exploring character balance, win rates, and performance trends in the competitiv
 **[Best-Countries-Climate-Education](https://github.com/axelle-le-rate/Best-Countries-Climate-Education)**  
 Ranking countries based on climate change policies, higher education systems, and cost of living.  
 
-🛠️ Skills Used
+## 🛠️ Skills Used
 Python · R · TensorFlow · Keras · Scikit-learn · Scikit-Image · OpenCV · NumPy · Pandas · PandasStyler · Matplotlib · Seaborn · ggplot2 · Data Visualization · Data Cleaning · Feature Engineering · Regression Analysis · Machine Learning · Deep Learning · Time Series Analysis · Optimization · Statistical Modeling · SQL
 
 ## 🔗 Let's Connect!  
