@@ -5,7 +5,7 @@ Welcome! I'm Axelle, a Data Science student passionate about **AI in healthcare,
 ## 📂 Featured Projects  
 
 ### 🔬 Pneumonia Detection Using CNNs  
-**[Pneumonia-Detection-CNN](https://github.com/YourGitHubUsername/Pneumonia-Detection-CNN)**  
+**[Pneumonia-Detection-CNN](https://github.com/axelle-le-rate/Pneumonia-Detection-CNN)**  
 A deep learning model that detects pneumonia from chest X-rays with **94% accuracy**.  
 
 ### 🏗️ Pneumonia Feature Engineering & EDA  
