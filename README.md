@@ -9,7 +9,7 @@ Welcome! I'm Axelle, a Data Science student passionate about **AI in healthcare,
 A deep learning model that detects pneumonia from chest X-rays with **94% accuracy**.  
 
 ### 🏗️ Pneumonia Feature Engineering & EDA  
-**[Pneumonia-CNN-Feature-Engineering](https://github.com/YourGitHubUsername/Pneumonia-CNN-Feature-Engineering)**  
+**[Pneumonia-CNN-Feature-Engineering](https://github.com/axelle-le-rate/Pneumonia-Feature-Engineering-EDA)**  
 Feature extraction and exploratory data analysis (EDA) for pneumonia classification. This project quantifies image differences and clusters X-rays into normal vs. abnormal categories.  
 
 ### 📊 CPI Inflation Modeling  
