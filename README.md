@@ -24,6 +24,10 @@ Exploring character balance, win rates, and performance trends in the competitiv
 **[Best-Countries-Climate-Education](https://github.com/axelle-le-rate/Best-Countries-Climate-Education)**  
 Ranking countries based on climate change policies, higher education systems, and cost of living.  
 
+### Faith & STEM: College Rankings for Christian Latina Women
+**[Faith-STEM-College-Rankings](https://github.com/axelle-le-rate/Faith-STEM-College-Rankings)**
+A data-driven ranking of the best colleges for first-generation, Christian, Latina women pursuing STEM degrees. Factors include Christian affiliation, STEM program strength, earnings after graduation, affordability, and first-gen student success rates.
+
 ## 🛠️ Skills Used
 Python · R · TensorFlow · Keras · Scikit-learn · Scikit-Image · OpenCV · NumPy · Pandas · PandasStyler · Matplotlib · Seaborn · ggplot2 · Data Visualization · Data Cleaning · Feature Engineering · Regression Analysis · Machine Learning · Deep Learning · Time Series Analysis · Optimization · Statistical Modeling · SQL
 
