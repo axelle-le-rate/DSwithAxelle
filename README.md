@@ -28,4 +28,4 @@ Ranking countries based on climate change policies, higher education systems, an
 `Python` · `R` · `TensorFlow` · `Scikit-learn` · `Matplotlib` · `Data Visualization` · `NumPy` · `Pandas` · `Scikit-Image` · `Keras` · `PandasStyler` · `OpenCV`
 
 ## 🔗 Let's Connect!  
-[💼 LinkedIn](www.linkedin.com/in/axelle-jimenez) | ✉️ [Email Me](mailto:axellerule@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/axelle-jimenez/) | ✉️ [Email Me](mailto:axellerule@gmail.com)
