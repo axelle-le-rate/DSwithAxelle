@@ -13,15 +13,15 @@ A deep learning model that detects pneumonia from chest X-rays with **94% accura
 Feature extraction and exploratory data analysis (EDA) for pneumonia classification. This project quantifies image differences and clusters X-rays into normal vs. abnormal categories.  
 
 ### 📊 CPI Inflation Modeling  
-**[CPI-Inflation-Modeling](https://github.com/YourGitHubUsername/CPI-Inflation-Modeling)**  
+**[CPI-Inflation-Modeling](https://github.com/axelle-le-rate/CPI-Inflation-Modeling)**  
 Financial analysis of inflation trends using **exponential, polynomial, and logarithmic regression**.  
 
 ### 🎮 Super Smash Bros Data Analysis  
-**[Super-Smash-Bros-Data-Analysis](https://github.com/YourGitHubUsername/Super-Smash-Bros-Data-Analysis)**  
+**[Super-Smash-Bros-Data-Analysis](https://github.com/axelle-le-rate/Super-Smash-Stats)**  
 Exploring character balance, win rates, and performance trends in the competitive scene.  
 
 ### 🌍 Best Countries for Climate & Education  
-**[Best-Countries-Climate-Education](https://github.com/YourGitHubUsername/Best-Countries-Climate-Education)**  
+**[Best-Countries-Climate-Education](https://github.com/axelle-le-rate/Country-Climate-Readiness)**  
 Ranking countries based on climate change policies, higher education systems, and cost of living.  
 
 ## 🛠️ Skills Used  
