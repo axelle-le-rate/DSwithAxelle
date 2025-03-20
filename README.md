@@ -9,7 +9,7 @@ Welcome! I'm Axelle, a Data Science student passionate about **AI in healthcare,
 A deep learning model that detects pneumonia from chest X-rays with **94% accuracy**.  
 
 ### 🏗️ Pneumonia Feature Engineering & EDA  
-**[Pneumonia-CNN-Feature-Engineering](https://github.com/axelle-le-rate/Pneumonia-Feature-Engineering-EDA)**  
+**[Pneumonia-CNN-Feature-Engineering](https://github.com/axelle-le-rate/Pneumonia-CNN-Feature-Engineering)**  
 Feature extraction and exploratory data analysis (EDA) for pneumonia classification. This project quantifies image differences and clusters X-rays into normal vs. abnormal categories.  
 
 ### 📊 CPI Inflation Modeling  
@@ -17,15 +17,15 @@ Feature extraction and exploratory data analysis (EDA) for pneumonia classificat
 Financial analysis of inflation trends using **exponential, polynomial, and logarithmic regression**.  
 
 ### 🎮 Super Smash Bros Data Analysis  
-**[Super-Smash-Bros-Data-Analysis](https://github.com/axelle-le-rate/Super-Smash-Stats)**  
+**[Super-Smash-Bros-Data-Analysis](https://github.com/axelle-le-rate/Super-Smash-Bros-Data-Analysis)**  
 Exploring character balance, win rates, and performance trends in the competitive scene.  
 
 ### 🌍 Best Countries for Climate & Education  
-**[Best-Countries-Climate-Education](https://github.com/axelle-le-rate/Country-Climate-Readiness)**  
+**[Best-Countries-Climate-Education](https://github.com/axelle-le-rate/Best-Countries-Climate-Education)**  
 Ranking countries based on climate change policies, higher education systems, and cost of living.  
 
 ## 🛠️ Skills Used  
 `Python` · `R` · `TensorFlow` · `Scikit-learn` · `Matplotlib` · `Data Visualization` · `NumPy` · `Pandas` · `Scikit-Image` · `Keras` · `PandasStyler` · `OpenCV`
 
 ## 🔗 Let's Connect!  
-[💼 LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [Email Me](mailto:your-email@example.com)
+[💼 LinkedIn](www.linkedin.com/in/axelle-jimenez) | ✉️ [Email Me](mailto:axellerule@gmail.com)
